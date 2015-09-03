@@ -22,8 +22,6 @@ and what you should write is the favNum function that makes the code above work,
 
 */
 
-var c;
-
   //Code Here for first
 
   var first = function (arr, func) {
